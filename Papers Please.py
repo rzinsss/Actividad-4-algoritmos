@@ -127,3 +127,4 @@ for i in range(0,numero_de_personas_por_atender):
 print("Gloria a Arstotzka!")
 print("Cantidad de gente aprobada:", Cantidad_de_gente_aprobada)
 print("Cantidad de Arstotzkanos:", Cantidad_de_Arstotzkanos)
+print("este archivo fue modificado")
